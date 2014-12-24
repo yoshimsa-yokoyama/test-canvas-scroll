@@ -1,0 +1,35 @@
+{
+  "name": "project_allie",
+  "version": "0.0.1",
+  "description": "gulp project",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yoshimasa Yokoyama",
+  "license": "",
+  "devDependencies": {
+    "browser-sync": "^1.6.2",
+    "connect": "^3.3.2",
+    "del": "^0.1.3",
+    "gulp": "^3.8.9",
+    "gulp-coffee": "~2.2.0",
+    "gulp-csslint": "~0.1.5",
+    "gulp-ejs": "^1.0.0",
+    "gulp-ftp": "^1.0.1",
+    "gulp-htmlhint": "0.0.9",
+    "gulp-imagemin": "^1.2.1",
+    "gulp-jshint": "~1.8.6",
+    "gulp-minify-css": "^0.3.11",
+    "gulp-minify-html": "~0.1.6",
+    "gulp-pleeease": "~1.0.4",
+    "gulp-plumber": "^0.6.6",
+    "gulp-rename": "^1.2.0",
+    "gulp-sass": "^1.2.4",
+    "gulp-sourcemaps": "~1.2.7",
+    "gulp-spritesmith": "0.0.2",
+    "gulp-uglify": "^1.0.1",
+    "gulp-util": "^3.0.1",
+    "rimraf": "^2.2.8"
+  }
+}
